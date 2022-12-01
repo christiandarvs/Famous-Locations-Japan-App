@@ -1,4 +1,4 @@
-# day_seven_practice
+# Famous Locations in Japan
 
 A new Flutter project.
 
